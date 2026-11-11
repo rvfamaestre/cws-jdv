@@ -1,0 +1,10 @@
+{
+  "name": "obstacle_course",
+  "rows": 18,
+  "cols": 22,
+  "permanents": [[4, 8], [4, 9], [5, 8], [5, 9], [10, 14], [10, 15], [11, 14], [11, 15]],
+  "alive_cells": [],
+  "objectives": [[15, 19], [16, 18], [16, 19]],
+  "start_zone": [0, 0, 4, 6],
+  "music_track": "soundtrack3.wav"
+}

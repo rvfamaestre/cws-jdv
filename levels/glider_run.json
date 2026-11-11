@@ -1,0 +1,10 @@
+{
+  "name": "glider_run",
+  "rows": 18,
+  "cols": 22,
+  "permanents": [],
+  "alive_cells": [],
+  "objectives": [[15, 19], [16, 19], [16, 20]],
+  "start_zone": [0, 0, 5, 5],
+  "music_track": "soundtrack2.wav"
+}
